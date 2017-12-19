@@ -1,8 +1,7 @@
-# Personal Bio Site 11: Angularify to your Personal Bio
+# Personal Bio Site 11: Browserify to your Personal Bio
 
-### You will be working off of your previous iteration of your Personal Bio site.
+### You will be working off of your previous iteration of your Personal Site.
 
 ## Requirements
-
-1. Make each page of your application into an Angular route.
-    - Implement Angular Controllers and Partials
+    
+1. Use modular code and Browserify your site.
