@@ -10,9 +10,12 @@ For more information on GitHub Pages [visit here](https://pages.github.com/).
 
 ## Requirements
 
-Create a two page site for your own personal branding. As we continue through the front-end milestones, we will add more features to this site, and it will eventually evolve into your personal portfolio site to share with employers. For now, focus on the structure of your HTML. (You may style to your heart's content but know that you can always update it later). 
+Create a two page site for your own personal branding. As we continue through these milestones, we will add more features to this site, and it will eventually evolve into your personal portfolio site to share with employers. For now, focus on the structure of your HTML. (You may style to your heart's content but know that you can always update it later). 
 
-### Pages
+### Pages/Information
+
+#### Personal Story
+Users want to read information about you, including your personal story of why you chose to become a software developer.
 
 #### Professional history page
 
