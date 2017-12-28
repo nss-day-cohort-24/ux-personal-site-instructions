@@ -10,5 +10,7 @@
 1. [Use JQuery](personal-bio-site-8.md)
 1. [SASS](personal-bio-site-9)
 1. [Firebase for Data](personal-bio-site-10.md)
-1. [Browerify](personal-bio-site-11.md)
+1. [Browserify](personal-bio-site-11.md)
 1. [Make it your own](personal-bio-site-12.md)
+1. Add React
+1. Add more data
