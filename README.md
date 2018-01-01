@@ -8,6 +8,7 @@
 1. [Implement Bootstrap](personal-bio-site-6.md)
 1. [Use ES6](personal-bio-site-7.md)
 1. [Use JQuery](personal-bio-site-8.md)
+1. Create a style guide for your site.
 1. [SASS](personal-bio-site-9.md)
 1. [Firebase for Data](personal-bio-site-10.md)
 1. [Browserify](personal-bio-site-11.md)
