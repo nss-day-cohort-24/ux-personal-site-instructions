@@ -1,4 +1,4 @@
-# Personal Bio Site 1: Professional History Page and Contact Page (HTML)
+# Personal Bio Site 1: Professional History Page and Contact Page (Semantic HTML)
 
 ## Setup
 
@@ -10,7 +10,11 @@ For more information on GitHub Pages [visit here](https://pages.github.com/).
 
 ## Requirements
 
-Create a two page site for your own personal branding. As we continue through these milestones, we will add more features to this site, and it will eventually evolve into your personal portfolio site to share with employers. For now, focus on the structure of your HTML. (You may style to your heart's content but know that you can always update it later). 
+Create a two page site for your own personal branding. As we continue through these milestones, we will add more features to this site, and it will eventually evolve into your personal portfolio site to share with employers. For now, focus on the structure of your HTML. 
+
+Plan your pages and start with a sketch.
+
+For this version, keep the styles simple. With correct sematics, you can easily change the look later.
 
 ### Pages/Information
 
