@@ -8,7 +8,7 @@
 1. [Implement Bootstrap](ps-bootstrap.md)
 1. [Use ES6](ps-es6.md)
 1. [Use JQuery](ps-jquery.md)
-1. [Styleguide] (ps-styleguide.md)
+1. [Styleguide](ps-styleguide.md)
 1. [SASS](ps-sass.md)
 1. [Firebase for Data](ps-firebase.md)
 1. [Browserify](ps-browserify.md)
