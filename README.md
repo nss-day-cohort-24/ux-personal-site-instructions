@@ -12,7 +12,7 @@
 1. [SASS](ps-sass.md)
 1. [Firebase for Data](ps-firebase.md)
 1. [Browserify](ps-browserify.md)
-1. [Competitive Analysis] (ps-competitive-analysis)
+1. [Competitive Analysis](ps-competitive-analysis)
 1. [Make it your own](ps-personalize.md)
 1. React I
 1. React II
