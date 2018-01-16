@@ -1,11 +1,10 @@
-# Personal Bio Site 4: Using JS to write to the DOM (JS - loops)
+# Personal Site: Using JS to write to the DOM (JS - loops)
 
 ## Prerequisite
 
-> :warning: This exercise requires you to have completed the [Personal Bio Site 3: Interactive Navigation (CSS)
-](personal-bio-site-3.md) exercise
+> :warning: This exercise requires you to have completed the Personal Site: Interactive Navigation (CSS) exercise
 
-### You will be working off of your previous iteration of your Personal Bio site.
+### You will be working off of your previous iteration of your personal site.
 
 ## Requirements
 

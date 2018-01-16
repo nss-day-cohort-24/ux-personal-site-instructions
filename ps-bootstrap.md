@@ -1,10 +1,10 @@
-# Personal Bio Site 6: Bootstrapping Your Personal Bio Site (Bootstrap)
+# Personal Site: Bootstrapping Your Personal Site (Bootstrap)
 
 ## Prerequisite
 
-> :warning: This exercise requires you to have completed the [Personal Bio Site 5: Using JSON/XHR to write your blog articles to the DOM (JS - XHR)](personal-bio-site-5.md) exercise.
+> :warning: This exercise requires you to have completed the Personal Site: JSON and XHR exercise.
 
-### You will be working off of your previous iteration of your Personal Bio site.
+### You will be working off of your previous iteration of your personal site.
 
 ## Requirements
 

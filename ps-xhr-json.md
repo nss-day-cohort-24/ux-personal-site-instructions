@@ -1,11 +1,11 @@
-# Personal Bio Site 5: Using JSON/XHR to write your blog articles to the DOM (JS - XHR)
+# Personal Site: Using JSON/XHR to write your blog articles to the DOM (JS - XHR)
 
 ## Prerequisite
 
 > :warning: This exercise requires you to have completed the [Personal Bio Site 4 :Load your Blogs in with XHR to write to the DOM (JS - XHR)
 ](personal-bio-site-4.md) exercise
 
-### You will be working off of your previous iteration of your Personal Bio site.
+### You will be working off of your previous iteration of your personal site.
 
 ## Requirements
 

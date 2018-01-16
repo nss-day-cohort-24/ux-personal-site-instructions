@@ -1,11 +1,10 @@
-# Personal Bio Site 2: Adding Interactive Navigation (CSS)
+# Personal Site: Adding Interactive Navigation (CSS)
 
 ## Prerequisite
 
-> :warning: This exercise requires you to have completed the [Personal Bio Site 1: Professional History Page and Contact Page (HTML)
-](personal-bio-site-1.md) exercise
+> :warning: This exercise requires you to have completed the Personal Site: Semantic HTML exercise
 
-### You will be working off of your previous iteration of your Personal Bio site. 
+### You will be working off of your previous iteration of your personal site. 
 
 ## Requirements
 

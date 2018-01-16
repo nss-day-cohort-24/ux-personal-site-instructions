@@ -1,4 +1,4 @@
-# Personal Bio Site 1: Professional History Page and Contact Page (Semantic HTML)
+# Personal Site: Professional History Page and Contact Page (Semantic HTML)
 
 ## Setup
 

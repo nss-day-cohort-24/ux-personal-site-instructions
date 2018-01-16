@@ -1,4 +1,4 @@
-# Personal Bio Site 11: Browserify your Personal Site
+# Personal Site: Browserify your Personal Site
 
 ### You will be working off of your previous iteration of your Personal Site.
 

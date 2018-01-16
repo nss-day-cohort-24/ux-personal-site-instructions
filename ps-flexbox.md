@@ -1,11 +1,10 @@
-# Personal Bio Site 3: Adding A Blog Page (CSS - Flexbox)
+# Personal Site: Adding A Blog Page (CSS - Flexbox)
 
 ## Prerequisite
 
-> :warning: This exercise requires you to have completed the [Personal Bio Site 2: Interactive Navigation (CSS)
-](personal-bio-site-2.md) exercise
+> :warning: This exercise requires you to have completed the Personal Site: Interactive Navigation (CSS) exercise
 
-### You will be working off of your previous iteration of your Personal Bio site.
+### You will be working off of your previous iteration of your personal site.
 
 ## Requirements
 
