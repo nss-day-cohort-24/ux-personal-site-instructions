@@ -3,7 +3,7 @@
 1. [Semantic HTML](ps-semantic-html.md)
 1. [CSS Interactive Navigation](ps-interactive-nav-css.md)
 1. [Blog Page - CSS Flexbox](ps-flexbox.md)
-1. [JS: Loops and write to the DOM](ps-loops.md)
+1. [JS: Loops and write to the DOM](ps-js-loops.md)
 1. [Styleguide](ps-styleguide.md)
 1. [SASS](ps-sass.md)
 1. [Implement Bootstrap](ps-bootstrap.md)
