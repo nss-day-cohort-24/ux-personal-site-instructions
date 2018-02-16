@@ -25,4 +25,4 @@
 	* Loop that iterates over the array, builds up a string, and then puts the string on the DOM
 
 ## Submit Your Exercise
-Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.
