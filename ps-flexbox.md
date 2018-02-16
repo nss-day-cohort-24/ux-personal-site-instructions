@@ -15,3 +15,6 @@
    * A content section containing your body of text. _These entries should be themed around your journey into development. As you discover new tricks, tips and tools, write about your discovery. Write about what you have tried and why it did or did not work. These entries will be helpful for you as you speak with other members of the development community (and will be helpful when you are frustrated - look how far you've come). For now, you can use placeholder text, but this should be your place to continue writing throughout this course._
 1. Your page should follow this mockup. Use Flexbox to achieve this:
 ![Blog Mockup](./images/BlogArticleExercise.png)
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.

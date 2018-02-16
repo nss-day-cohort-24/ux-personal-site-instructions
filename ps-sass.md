@@ -15,3 +15,6 @@
 * Variables for colors
 * Extend common style 
 * Nest your classes 
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.
