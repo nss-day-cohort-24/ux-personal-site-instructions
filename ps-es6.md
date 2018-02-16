@@ -11,4 +11,4 @@
 1. ES6-ify your entire personal site. Use Fat Arrow functions, let/const and sting template literals (${}).
 
 ## Submit Your Exercise
-Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

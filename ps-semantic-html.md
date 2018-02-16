@@ -51,4 +51,4 @@ Each page should have an `<h1>` title contained in the appropriate HTML5 semanti
 Each page should have the same footer information. Put whatever information you like in the footer.
 
 ## Submit Your Exercise
-Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

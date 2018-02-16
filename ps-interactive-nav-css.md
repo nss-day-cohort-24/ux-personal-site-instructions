@@ -19,4 +19,4 @@ Update your navigation bar with the following interactivity.
 1. Add CSS animation for the actions buttons of the nav bar. For example: fade the text color change.
 
 ## Submit Your Exercise
-Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

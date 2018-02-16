@@ -18,4 +18,4 @@
 1. Deploy to github.io
 
 ## Submit Your Exercise
-Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.
