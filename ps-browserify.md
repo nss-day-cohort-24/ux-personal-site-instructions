@@ -5,3 +5,6 @@
 ## Requirements
     
 1. Use modular code and Browserify your site.
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.

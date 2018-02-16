@@ -11,3 +11,6 @@
     - If your project is deployed, you should link to the deployed site.
 1. Make sure that you are not pushing up your Firebase Api Key
 1. Deploy your site to firebase
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.

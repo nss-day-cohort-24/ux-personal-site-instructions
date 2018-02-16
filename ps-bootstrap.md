@@ -26,3 +26,6 @@
 
 ## Final Result
 ![Blog Jumbo](./images/Blog_Jumbo.gif)
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.

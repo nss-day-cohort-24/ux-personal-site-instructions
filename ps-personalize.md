@@ -16,3 +16,6 @@
   > * Contact information and decription - blurb about who you are and multiple ways to contact you
 1. Use Firebase
 1. Deploy to github.io
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSCohort24) for review.
